@@ -1,2 +1,2 @@
 baseurl: '/array-practice'
-exclude: ['README.md']
+exclude: ['README.md', '.gitiginore']
